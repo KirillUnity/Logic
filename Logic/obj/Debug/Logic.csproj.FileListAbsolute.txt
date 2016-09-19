@@ -1,1 +1,7 @@
 c:\users\кирилл\documents\visual studio 2015\Logic\Logic\Logic\bin\Debug\Logic.exe.config
+D:\Git\Logic\Logic\bin\Debug\Logic.exe.config
+D:\Git\Logic\Logic\bin\Debug\Logic.exe
+D:\Git\Logic\Logic\bin\Debug\Logic.pdb
+D:\Git\Logic\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+D:\Git\Logic\Logic\obj\Debug\Logic.exe
+D:\Git\Logic\Logic\obj\Debug\Logic.pdb
